@@ -16,4 +16,4 @@ You're going to have to be careful with the IC / boards once mounted. The open-g
 
 
 ##Versions
-* SOIC / SSOP
+* SOIC / SSOP - make ICs with up to 14 legs per side breadboard friendly
